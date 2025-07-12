@@ -1,0 +1,7 @@
+{
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        {
+            "text": "Generate a concise commit message for the staged changes following conventional-changelog angular style. Use the format: type(scope): description. Valid types include: build, ci, docs, feat, fix, perf, refactor, style, test, chore. Focus on the key modifications and their purpose, avoiding unnecessary details."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# MacOS system files
+.DS_Store
+
+# Python environment files
+.env
+
+# pipenv
+Pipfile.lock
+
+# mypy
+.mypy_cache/
+.dmypy.json
+
+# pytest
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter runtime
+~/.local/share/jupyter/runtime/
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
+
+# Build
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Editable installs
+*.egg
+
+# Wheels
+*.whl
+
+# Test output
+junit-*.xml
+
+# Temporary files
+*.tmp
+*.temp
+
+# IPython history
+.ipython/
+
+# Local data
+local_data/
